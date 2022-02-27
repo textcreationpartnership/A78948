@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties most gratious speech to both houses of Parliament on Thurseday the second of December. 1641. Whereunto is added the King and Queenes royall loves returned to the worthy members of the honorable City of London. Or a royall invitation from both their Majesties, for the lord major and court of aldermen to feast with them at their Highnesse palace of Hampton Court. Which was performed on Friday the third of December 1641. with the manner of knighting of five of the aldermen there, and the two shriffes of London.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78948</idno>
+            <idno type="STC">Wing C2522</idno>
+            <idno type="STC">Thomason E199_28</idno>
+            <idno type="STC">Thomason E199_29</idno>
+            <idno type="STC">ESTC R9797</idno>
+            <idno type="EEBO-CITATION">99873614</idno>
+            <idno type="PROQUEST">99873614</idno>
+            <idno type="VID">157526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157526)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[28], 35:E199[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties most gratious speech to both houses of Parliament on Thurseday the second of December. 1641. Whereunto is added the King and Queenes royall loves returned to the worthy members of the honorable City of London. Or a royall invitation from both their Majesties, for the lord major and court of aldermen to feast with them at their Highnesse palace of Hampton Court. Which was performed on Friday the third of December 1641. with the manner of knighting of five of the aldermen there, and the two shriffes of London.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Different versions of this speech were published with titles "His royal Maiesties speech: spoken in the high court of Parliament on Friday December the 2. 1641..", "His Majesties speech to both Houses of Parliament: December the second..", and "The Kings Majesties speech on the 2 day of December, 1641..".</note>
+                  <note>Thomason E.199[29] has the caption title: "King Charles and Queene Marys royall love returned to the worthy members of the honourable citty of London. Or a royall invitation from both their Majesties ..".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157526:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:157526:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>THE KINGS MAIESTIES MOST GRATIOVS SPEECH to both houſes of Parlia<g ref="char:EOLhyphen"/>ment on Thurſeday the ſecond of <hi>December.</hi> 1641.</p>
+            <p>Whereunto is added the King and Queenes Royall loves returned to the worthy members of the ho<g ref="char:EOLhyphen"/>norable City of <hi>London.</hi>
+            </p>
+            <p>Or a Royall Invitation from both their Majeſties, for the Lord Major and Court of Al<g ref="char:EOLhyphen"/>dermen to feaſt with them at their High<g ref="char:EOLhyphen"/>neſſe Palace of <hi>Hampton Court.</hi>
+            </p>
+            <p>Which was performed on Friday the third of <hi>December</hi> 1641. with the manner of Knighting of Five of the Aldermen there, and the two Shriffes of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157526:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:157526:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>HIS MAIESTIES Speech to both Houſes of Parliament the ſecond of <hi>December.</hi> 1641.</head>
+            <opener>
+               <salute>My Lords And Gentlemen.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am to Speake a word unto you, ſince I have beene ſo long abſent from you, it is in no way in an<g ref="char:EOLhyphen"/>ſwer to the learned ſpeech of Maiſter Speaker; but yet I ſhall touch one point of it concerning <hi>Ireland,</hi> but firſt I muſt tell you, though I have beene abſent lon<g ref="char:EOLhyphen"/>ger then indeede I did expect, or could have been expected by you; yet I ſtayed no longer in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> then the neceſſity of thoſe affaires would ab<g ref="char:EOLhyphen"/>ſolutely permit, and indeed I have done therein ſo much good, that I dare boldly affirme unto you, I have left the people a moſt contented and happie nation: ſo that if I did miſreckon in the time, I did not miſreckon in the end.</p>
+            <p>Now though I have deceived you a littl of
+<pb n="2" facs="tcp:157526:3"/>
+               <!-- PDF PAGE 21 -->
+your expectation in point of time I confeſſe, you have deceived my expectation in finding of buſi<g ref="char:EOLhyphen"/>neſſe here, for I had thought to have found thinges in quietneſſe, and ſetled both for Religi<g ref="char:EOLhyphen"/>on, and peace, of this Kingdome, but I found great diſtractions, in ſo much as the Parliament was thought fit to be guarded, this I ſpeake not any way to ſeeke out a fault, or to have any di<g ref="char:EOLhyphen"/>ſtruſt of the harty affections of my Subjects, but but on the contrary when I came here (as you all ſee) I found the affection of my people to mee with great comfort.</p>
+            <p>Now I aſſure you I come with the ſame affecti<g ref="char:EOLhyphen"/>on that you, or any good people of the world can wiſh, for I am far from diſliking any thing I have done hitherto, that if it were to be done againe even in the favour and good of my people, that I proteſt, I would do it again, and whatſoever may be juſtly expected of mee for ſecuring of religi<g ref="char:EOLhyphen"/>on, and liberty of my people, I ſhall not faile to doe it.</p>
+            <p>And therefore I ſhall mention no particular at this time, but only the great particular of <hi>Ireland,</hi> which Maſter Speaker did mention of, which I doe not doubt, but you have had a great care, yet me thinkes, thinges goe on flowly, and I menti<g ref="char:EOLhyphen"/>on this more ſeaſonably, becauſe a couple of no<g ref="char:EOLhyphen"/>ble men are come out of <hi>Scotland,</hi> according to the petition, and inſtructions, which it pleaſed both houſes to ſend to me at <hi>Barwicke,</hi> which I inſtantly diſpatched to the Councell there, who now have the full diſpoſall of thinges, I ſpoke to
+<pb n="3" facs="tcp:157526:3"/>
+               <!-- PDF PAGE 21 -->
+them this morning, and I deſire both houſes to appoint a ſelect Committe to treat, and end theſe buſineſſes with them.</p>
+            <p>I have but this word to ſay, that I aſſure you I have no other end, but the happineſſe of my people for their flouriſhing is my greater glory, and there affection, is my greateſt ſtrength</p>
+         </div>
+      </body>
+   </text>
+</TEI>
